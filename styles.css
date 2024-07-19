@@ -7,10 +7,10 @@ main {
     background-color: antiquewhite;
 }
 
-#img-div {
-    text-align: center;
+#image {
     display: block;
     max-width: 100%;
+    text-align: center;
     height: auto;
 }
 
